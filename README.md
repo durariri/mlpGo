@@ -1,2 +1,2 @@
 # mlpGo
-# multi-layer perceptron implemetntation with Go
+multi-layer perceptron implemetntation with Go
